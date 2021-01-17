@@ -1,0 +1,20 @@
+{
+  "appPackage": "-",
+  "isLive": true,
+  "newAppPackage": "",
+  "isAdsShow": true,
+  "inter": "-",
+  "fb_inter": "-",
+  "fb_banner": "-",
+  "fb_native": "-",
+  "isShowGG": true,
+  "banner": "-",
+  "nativeAd": "-",
+  "rewarded": "",
+  "percent_banner": 100,
+  "percent_inter": 100,
+  "percent_native": 100,
+  "numberNativeAd": 3,
+  "numberInterAd": 100,
+  "timeRequestAd": 3000
+}
